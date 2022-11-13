@@ -3309,7 +3309,7 @@ input, select, textarea {
 		transition: opacity 1s ease, transform 1s ease;
 		position: relative;
 		cursor: default;
-		text-align: center;
+		text-align: left;
 		z-index: 1;
 		min-height: 100vh;
 	}
@@ -3519,7 +3519,7 @@ input, select, textarea {
 		height: 20rem;
 		padding-bottom: 8rem;
 		position: relative;
-		text-align: center;
+		text-align: left;
 		z-index: 2;
 	}
 
